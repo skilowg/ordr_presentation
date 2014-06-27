@@ -21,8 +21,8 @@ html * {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #14bbb1;
-  background-color: #14bbb1; }
+  background: #f1ede2;
+  background-color: #f1ede2; }
 
 .reveal {
   font-family: "Lato", sans-serif;
@@ -47,7 +47,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #333;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Oswald", sans-serif;
   line-height: 0.9em;
   text-transform: uppercase;
   text-shadow: none; }
@@ -57,7 +57,7 @@ body {
 }
 
 .reveal h2 {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Oswald", sans-serif;
   line-height: 0.9em;
   text-transform: uppercase;
   text-shadow: none;
@@ -65,7 +65,7 @@ body {
 }
 
 .reveal h3 {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Oswald", sans-serif;
   line-height: 0.4em;
   text-transform: uppercase;
   text-shadow: none;
@@ -74,7 +74,7 @@ body {
 }
 
 .reveal p {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Lato', sans-serif;
   color: #fff;
 }
 
@@ -97,7 +97,7 @@ body {
 }
 
 header {
-  background-color: #3c4a5b;
+  background-color: #333c4d;
   height: 4em;
 }
 
@@ -125,7 +125,7 @@ button {
 
 /*Hero text animation*/
 
-#herotext {
+/*#herotext {
   color:#fff;
   height: .85em;
   width: 100%;
@@ -188,7 +188,7 @@ button {
 
 @-moz-keyframes blink-end {
   from, to { border-color: #333; }
-  50% { border-color: transparent; }
+  50% { border-color: transparent; }*/
 }
 
 /*********************************************
